@@ -7,7 +7,7 @@ public class MyArrayException  extends RuntimeException{
 
     public void myArrayDataException  ()
     {
-        System.out.println("Ошибка преобразования строки в число");
+        System.out.println("Ошибка преобразования  строки в число");
 
     }
 }
